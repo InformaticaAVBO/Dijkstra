@@ -1,0 +1,136 @@
+Milano Sud;Lodi;30
+Lodi;Piacenza Sud;40
+Piacenza Sud;Fidenza;35
+Fidenza;Parma;20
+Parma;Reggio Emilia;25
+Reggio Emilia;Modena Nord;30
+Modena Nord;Bologna Borgo Panigale;40
+Bologna Borgo Panigale;Imola;35
+Imola;Faenza;15
+Faenza;Forlì;20
+Forlì;Cesena;15
+Cesena;Rimini Nord;30
+Rimini Nord;Rimini Sud;10
+Rimini Sud;Riccione;8
+Riccione;Cattolica;7
+Milano Est;Bergamo;45
+Bergamo;Brescia Ovest;50
+Brescia Ovest;Desenzano;25
+Desenzano;Peschiera;15
+Peschiera;Verona Sud;20
+Verona Sud;Vicenza Est;45
+Vicenza Est;Padova Ovest;30
+Padova Ovest;Venezia Mestre;35
+Milano Ovest;Binasco;15
+Binasco;Pavia Nord;20
+Pavia Nord;Tortona;35
+Tortona;Serravalle Scrivia;20
+Serravalle Scrivia;Genova Bolzaneto;40
+Bologna San Lazzaro;Imola;30
+Imola;Faenza;15
+Faenza;Forlì;20
+Forlì;Cesena;15
+Cesena;Rimini Nord;30
+Rimini Nord;Rimini Sud;10
+Rimini Sud;Riccione;8
+Riccione;Cattolica;7
+Cattolica;Pesaro;15
+Pesaro;Fano;12
+Fano;Senigallia;20
+Senigallia;Ancona Nord;18
+Ancona Nord;Ancona Sud;15
+Ancona Sud;Civitanova Marche;35
+Civitanova Marche;Porto Sant'Elpidio;10
+Porto Sant'Elpidio;Porto San Giorgio;8
+Porto San Giorgio;Pedaso;12
+Pedaso;Grottammare;10
+Grottammare;San Benedetto del Tronto;7
+San Benedetto del Tronto;Val Vibrata;10
+Val Vibrata;Teramo Giulianova;15
+Teramo Giulianova;Pescara Nord;30
+Pescara Nord;Pescara Ovest;10
+Pescara Ovest;Chieti;15
+Chieti;Ortona;20
+Ortona;Val di Sangro;25
+Val di Sangro;Vasto Sud;15
+Vasto Sud;Termoli;30
+Termoli;Lesina;25
+Lesina;San Severo;15
+San Severo;Foggia;20
+Foggia;Cerignola Est;25
+Cerignola Est;Canosa;15
+Canosa;Andria Barletta;10
+Andria Barletta;Trani;8
+Trani;Bisceglie;7
+Bisceglie;Molfetta;10
+Molfetta;Bari Nord;15
+Bari Nord;Bari Sud;10
+Bari Sud;Gioia del Colle;35
+Gioia del Colle;Acquaviva delle Fonti;10
+Acquaviva delle Fonti;Altamura;15
+Altamura;Gravina;10
+Gravina;Matera;15
+Matera;Metaponto;20
+Metaponto;Policoro;10
+Policoro;Rotondella;8
+Rotondella;Montegiordano;12
+Montegiordano;Amendolara;10
+Amendolara;Trebisacce;7
+Trebisacce;Sibari;10
+Sibari;Rossano;15
+Rossano;Corigliano;10
+Corigliano;Cassano;12
+Cassano;Spezzano Albanese;8
+Spezzano Albanese;Tarsia;10
+Tarsia;Montalto Uffugo;15
+Montalto Uffugo;Cosenza Nord;10
+Cosenza Nord;Cosenza Sud;8
+Cosenza Sud;Rende;7
+Rende;San Mango d'Aquino;10
+San Mango d'Aquino;Lamezia Terme;15
+Lamezia Terme;Vibo Valentia;20
+Vibo Valentia;Rosarno;15
+Rosarno;Gioia Tauro;10
+Gioia Tauro;Palmi;8
+Palmi;Bagnara Calabra;7
+Bagnara Calabra;Scilla;10
+Scilla;Reggio Calabria;15
+Brennero;Vipiteno;15
+Vipiteno;Bressanone;20
+Bressanone;Chiusa;10
+Chiusa;Bolzano Nord;15
+Bolzano Nord;Bolzano Sud;10
+Bolzano Sud;Egna Ora;20
+Egna Ora;San Michele all'Adige;15
+San Michele all'Adige;Trento Nord;10
+Trento Nord;Trento Sud;8
+Trento Sud;Rovereto Nord;15
+Rovereto Nord;Rovereto Sud;7
+Rovereto Sud;Ala Avio;10
+Ala Avio;Affi;20
+Affi;Verona Nord;25
+Verona Nord;Nogarole Rocca;15
+Nogarole Rocca;Mantova Nord;10
+Mantova Nord;Mantova Sud;8
+Mantova Sud;Pegognaga;12
+Pegognaga;Reggiolo Rolo;10
+Reggiolo Rolo;Carpi;15
+Carpi;Modena Nord;12
+Torino;Novara Est;90
+Novara Est;Milano Est;45
+Milano Est;Bergamo;45
+Bergamo;Brescia Ovest;50
+Brescia Ovest;Desenzano;25
+Desenzano;Peschiera;15
+Peschiera;Verona Sud;20
+Verona Sud;Vicenza Est;45
+Vicenza Est;Padova Ovest;30
+Padova Ovest;Venezia Mestre;35
+Venezia Mestre;San Donà di Piave;25
+San Donà di Piave;Portogruaro;20
+Portogruaro;Latisana;15
+Latisana;Palmanova;20
+Palmanova;Udine Sud;15
+Udine Sud;Gemona Osoppo;25
+Gemona Osoppo;Carnia;20
+Carnia;Tarvisio;35
